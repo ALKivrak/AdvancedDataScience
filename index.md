@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## How To Make a Scatter Plot
+A scatter Plot is a data graph that displays values for sets of data and create predictions based on the data. Like all graphs, it has an X and Y axis. Scatter Plots are mostly made up of a buch of dots.
 You can use the [editor on GitHub](https://github.com/Violagameboy/AdvancedDataScience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
