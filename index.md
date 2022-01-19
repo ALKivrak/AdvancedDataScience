@@ -20,7 +20,3 @@ Non-Linear Scatter Plot
 ![Non-Linear](Non-Linear.png)
 ###  Data Link
 [Data](https://onedrive.live.com/edit.aspx?resid=FC3779D4D6DCEC64!77887&ithint=file%2cxlsx)
-###
-You can use the [editor on GitHub](https://github.com/Violagameboy/AdvancedDataScience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
