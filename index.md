@@ -19,4 +19,4 @@ Linear Scatter Plot
 Non-Linear Scatter Plot
 ![Non-Linear](Non-Linear.png)
 ###  Data Link
-[Data](https://onedrive.live.com/edit.aspx?resid=FC3779D4D6DCEC64!77887&ithint=file%2cxlsx)
+[Data](https://github.com/Violagameboy/AdvancedDataScience/blob/gh-pages/Data.xlsx)
