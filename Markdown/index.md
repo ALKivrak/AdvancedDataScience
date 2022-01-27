@@ -7,7 +7,7 @@ Then, the program turns the hyperlinks the user doesn't need into normal text by
 Finally, the program creates a markdown table in a file named "MarkdownTable" using the remaining cells.
 Below is the markdown table the code creates.
 ###
-Day|Topic|Due
+|Day|Topic|Due
 |:---- |:----:| ----:|
 1|What is Data Science |
 2|VBA|HW1 - Excel
