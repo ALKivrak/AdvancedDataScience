@@ -1,4 +1,6 @@
-|Day|Topic|Due
+## Markdown Table Maker
+###
+Day|Topic|Due
 |||
 1/18/2021|1|What is Data Science |
 1/20/2021|2|VBA|HW1 - Excel
