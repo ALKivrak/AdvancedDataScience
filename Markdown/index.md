@@ -1,6 +1,14 @@
 ## Markdown Table Maker
-|Day|Topic|Due
-||
+###
+The code I created allows the user to create a markdown table from an excel spreedsheet.
+The program first deletes the columns the user doesn't want by placing a # in the columns. 
+Then, the program clears the cells the user doesn't want by placing a ! in the cells
+Then, the program turns the hyperlinks the user doesn't need into normal text by placing a * in the cells containing the hyperlink
+Finally, the program creates a markdown table file named "MarkdownTable" using the remaining cells
+Below is the table the code creates
+###
+Day|Topic|Due
+|:---- |:----:| ----:|
 1|What is Data Science |
 2|VBA|HW1 - Excel
 3|Data Communication|
@@ -31,8 +39,5 @@ Advising Day||
 25||
 26||
 27||
-||
-||
-||
-||
-||
+### Link to Code
+[Code](https://github.com/Violagameboy/AdvancedDataScience/blob/gh-pages/Markdown/Code.txt)
