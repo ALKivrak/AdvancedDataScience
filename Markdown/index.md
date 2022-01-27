@@ -1,5 +1,5 @@
 ## Markdown Table Maker
-###
+### How it works
 The code I created allows the user to create a markdown table from an excel spreedsheet.
 The program first deletes the columns the user doesn't want by placing a # in the columns. 
 Then, the program clears the cells the user doesn't want by placing a ! in the cells
