@@ -14,9 +14,12 @@ STEP 3: Click the top left graph in Scatter and then you got your scatter plot g
 ![STEP 3](STEP3.png)
 ###
 EXTRA STEP 1: To add axis titles, click the graph and click the button with the plus symbol on it and select the "axis titles" option".
-![EXTRA STEP](extra step.png)
+![EXTRA STEP](EXTRA.png)
 ###
 EXTRA STEP 2: To change the names of the axis titles and the title of the graph, double click on them.
+###
+NOTE: If you select more than 2 columns with data, the graph will have 2 different kinds of plots called series, basically different colors.
+![NOTE](NOTE.png)
 ### Examples
 Linear Scatter Plot
 ![Linear](Linear.png)
