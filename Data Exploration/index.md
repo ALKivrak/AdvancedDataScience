@@ -2,7 +2,6 @@
 ### Introduction
   The Core discovery I made is that Activision is the most popular video game developer. My supporting arguments is that Activision got the most sales from different places, got the heighest critic and user score and count, and published the most games. I am interested in this data set because video games is my favorite subject.
 ### Data Set
-
 Juttuga Rakesh produced this Data set because he wanted to measure the sales of video games. The data set focuses on the sales of NA (North America), JP (Japan), EU (Europe), other, and global players. In other to get closer results of the sales, The data set includes the name games, the platforms, the year of releases, the genres, the developers, the critic score and count, the user score and count, the publisher, and the ratings. I am interested in this data set because I like collecting data that involves video games. Click this [Link](https://www.kaggle.com/juttugarakesh/video-game-data?select=video_game.csv) to go to the data set.
 ### Initial Questions
 The desire to use a data set involving video games is what drove me to this data. I was about currious what publisher got the most sales in different places, what publisher got the heighest critic and user score and count, and what publisher published the most games. What surprised me with this data is that there were several empty spaces in the user and critic score and count columns. This data set was easy to work with so there was no need to wrangle it.
