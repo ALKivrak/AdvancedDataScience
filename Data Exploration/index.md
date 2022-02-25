@@ -13,7 +13,7 @@
 ![GRAPH8](graph8.png)
  The bar graph above shows that Activision got the heighest user score among all of the other publishers that were in the data set and 505 games is in third and almost tied for second with atari.
  
- ### Publishers and user counts
+### Publishers and user counts
 ![GRAPH9](graph9.png)
 The bar graph above shows that Activision got the heighest user count among all of the other publishers that were in the data set and 505 games got the second heighest.
 
