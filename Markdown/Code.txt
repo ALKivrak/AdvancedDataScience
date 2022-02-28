@@ -1,51 +1,3 @@
-Sub Code()
-
-'# to delete columns'
-'! to clear cells'
-'* to turn hyperlinks to normal text'
-'this code also gets rid of pics and tables'
-
-Dim lCol As Long
-Dim rng As Range
-Dim icntr As Long
-Dim shape As Excel.shape
-Dim FileName, sLine, Deliminator As String
-Dim LastCol, LastRow, FileNumber As Integer
-
-FileName = "MarkdownTable.md"
-Deliminator = "|"
-
-
-lCol = 17
-
-For icntr = lCol To 1 Step -1
-If Left(Cells(1, icntr), 1) = "#" Then
-Columns(icntr).Delete
-End If
-Next
-
-For Each rng In ActiveSheet.UsedRange
-
-If Left(rng.Value, 1) = "*" Then
-rng.Hyperlinks.Delete
-holder = rng.Value
-rng.Value = Right(rng.Value, Len(rng) - 1)
-End If
-
-If Left(rng.Value, 1) = "!" Then
-rng.ClearContents
-End If
-
-Next rng
-
-For Each shape In ActiveSheet.Shapes
-  shape.Delete
-Next
-
-LastCol = ActiveSheet.Cells.SpecialCells(xlCellTypeLastCell).Column
-LastRow = ActiveSheet.Cells.SpecialCells(xlCellTypeLastCell).Row - 5
-FileNumber = FreeFile
-
 Open FileName For Output As FileNumber
 For i = 1 To LastRow
 For j = 1 To LastCol
@@ -58,7 +10,11 @@ Else
 sLine = sLine & Cells(i, j).Value & Deliminator
 End If
 
-If i = 2 And j = 1 Then
+If i = 1 And j = 1 Then
+sLine = ""
+End If
+
+If i = 2 And j = 2 Then
 sLine = "|:---- |:----:| ----:"
 End If
 
