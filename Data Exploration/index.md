@@ -51,5 +51,3 @@ The bar graph above show that Activision has published the most games among all 
 
 ### Conclusion
   The Data set I analysed revloved around the sales of video games. I was focued what what publisher got the most sales, got the heighest user and critic count and score, and published the most games. By using bar charts, I managed to discover that Activision is the most popular video game publisher. 505 games may not have gotten the second heighest user score, and the second most sales in NA and global, but at least it got the second heighest user count, critic score and count, and published the second most games and a rival with acclaim entertainment in the sales.
-### Source
-Click this [Link](https://www.kaggle.com/juttugarakesh/video-game-data?select=video_game.csv) to see the data set
