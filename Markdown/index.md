@@ -1,42 +1,42 @@
 ## Markdown Table Maker
 ### How it works
 The code I created allows the user to create a markdown table from an excel spreedsheet.
-The program first deletes the columns the user doesn't want by placing a # at the far left of any cells in the first row of the columns. 
-Then, the program clears the cells the user doesn't want by placing a ! in the far left in the cells.
-Then, the program turns the hyperlinks into normal text the user doesn't want by placing a * in the far left in cells containing the hyperlink.
+The program first deletes the columns the user doesn't want by filing the top cells of the columns with color index 37 (a shade of blue). 
+Then, the program clears the cells the user doesn't want by filling those cells with color index 45 (a shade of orange).
+Then, the program turns the hyperlinks into normal text the user doesn't want by filling those cells with color index 6 (pure yellow).
 Finally, the program creates a markdown table in a file named "MarkdownTable" using the remaining cells.
 ### Click on the link below to access the code
 [Code](https://github.com/Violagameboy/AdvancedDataScience/blob/gh-pages/Markdown/Code.txt)
 ###
 Day|Topic|Due
 |:---- |:----:| ----:|
-1/18/2021|1|What is Data Science |
-1/20/2021|2|VBA|HW1 - Excel
-1/25/2021|3|Data Communication|
-1/27/2021|4|Work Day|HW2 - VBA
-2/1/2021|5|Why are data visualizations important ?|Reading Due - Florence Nightengale
-2/3/2021|6|Tablau|COVID Risk Calculator
-2/8/2021|7|How visualizations lie|Reading Due - Differnet Kinds of Data Visualization
-2/10/2021|8|Work Day|HW 3 - Tablau
-2/15/2021|9|Danielle|Reading Due - How Charts Lie
-2/17/2021|10|R Intro|
-2/22/2021|11| Doing Better Data Visualization (R and ggplots tutorisl)|Why Data is good for governments to provide
-2/24/2021|12|Work Day|HW 4 - ggplots
-3/1/2021|13|Sentiment Analysis - History and Types|Data Annonymity
-3/3/2021|14|TextBlob|Reading Due - How to un annonymize data
-3/8/2021|15|VADER|De-Annonymizing Data
-3/10/2021|16| P-Hacking Reflection|HW 5 - Sentiment Analysis
-3/15/2021|Spring Break||More P-Hacking
-3/17/2021|||
-3/22/2021|17|Random Forest|
-3/24/2021|18||
-3/29/2021|Advising Day||
-3/31/2021|19||HW 6 - Random Forest
-4/5/2021|20|Clustering - K Nearest Neighbors|
-4/7/2021|21||Possible Reading - Proxy Discrimination - When AI find predictive proxies for race - because society is segregated in this way. 
-4/12/2021|22||
-4/14/2021|23||HW 6 - Clustering
-4/19/2021|24|Final Project|
-4/21/2021|25||
-4/26/2021|26||
-4/28/2021|27||
+1|What is Data Science |
+2|VBA|[HW1 - Excel](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit)
+3|Data Communication|
+4|Work Day|[HW2 - VBA](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit)
+5|Importance of Visualizations & Writing, Tableau|[Reading Due - Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit)
+|Class Canceled |
+6|Work day|
+7|Reading Review|[HW 3 - Tableau](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit)
+8|Data Exploration with Data Vis + R Intro|[Reading - Reveal Don't Conceal](https://docs.google.com/forms/d/1zno4KDCz5dWahMLxWlQDUzI7sfpd2ygYqU6H_k05K-E/edit)
+9|ggplot Intro|[Reading - Why Data is good for governments to provide](https://www.theguardian.com/local-government-network/2013/oct/21/open-data-us-san-francisco)
+10|Danielle|
+11|Work Day|[HW 4 - Data Exploration Tableau](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit)
+12|Remember Statistics - Linear Regression|
+13|Logistic Regression|
+14||[P-Hacking](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01554)
+15|Work Day|HW 5 - ggplots & Regressions
+Spring Break||
+||[IRB What Data You Can Use](https://research.virginia.edu/irb-hsr/archival-data)
+16|Data Annonymity|[Reading Due - How to un annonymize data](https://www.theguardian.com/technology/2019/jul/23/anonymised-data-never-be-anonymous-enough-study-finds)
+17|De-Annonymizing Data|Or Access and more Data base stuff
+Advising Day||
+18|Random Forest|HW 6 - Random Forest
+19||
+20||[Possible Reading - Proxy Discrimination - When AI find predictive proxies for race - because society is segregated in this way. ](https://ilr.law.uiowa.edu/print/volume-105-issue-3/proxy-discrimination-in-the-age-of-artificial-intelligence-and-big-data)
+21|Clustering - K Nearest Neighbors|
+22||
+23|Final Project|HW 6 - Clustering
+24||
+25||
+26||
