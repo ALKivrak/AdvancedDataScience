@@ -6,7 +6,7 @@ Then, the program clears the cells the user doesn't want by filling those cells 
 Then, the program turns the hyperlinks into normal text the user doesn't want by filling those cells with color index 6 (pure yellow).
 Finally, the program creates a markdown table in a file named "MarkdownTable" using the remaining cells.
 ### Click on the link below to access the code
-[Code](https://github.com/Violagameboy/AdvancedDataScience/blob/gh-pages/Markdown/Code.txt)
+[Code](https://github.com/Violagameboy/AdvancedDataScience/blob/gh-pages/Markdown/Code.bas)
 ###
 Day|Topic|Due
 |:---- |:----:| ----:|
