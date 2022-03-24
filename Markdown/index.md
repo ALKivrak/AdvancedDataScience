@@ -7,4 +7,3 @@ Then, the program turns the hyperlinks into normal text the user doesn't want by
 Finally, the program creates a markdown table in a file named "MarkdownTable" using the remaining cells.
 ### Click on the link below to access the code
 [Code](https://github.com/Violagameboy/AdvancedDataScience/blob/gh-pages/Markdown/Code.bas)
-###
